@@ -1,0 +1,9 @@
+.albums{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.album-cover{
+    width: 150px;
+    height: 150px;
+}
